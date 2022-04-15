@@ -44,7 +44,7 @@ function generate(){
             window.open(twitterUrl, '_blank'); 
         }
         
-// Escucha de eventos
+// Event listening
 newQuoteBtn.addEventListener('click', getQuote);
 twitterBtn.addEventListener('click', tweetQuote);
 
