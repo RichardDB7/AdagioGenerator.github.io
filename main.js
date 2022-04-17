@@ -29,6 +29,7 @@ function generate(){
     "La única venganza que tiene el bien sobre el mal es hacer el bien <br><br> Mario Javier Sabán",
     "Observemos a la gente en las calles corriendo de un lado para el otro solo para obtener comida y bebida. Hoy aquí y mañana en la tumba. Para qué vino el alma del hombre a este mundo? El alma vino a conocer el universo y el Infinito, lo demás son vanidades <br><br> Moshe Jaim Luzzatto",
     "Mientras estudias, no hay necesidad de buscar la unión con Dios, porque el estudio es una de las formas más sublimes de unirse con Él <br><br> Jaim ben Isaac de Volozhin",
+    "Para un místico, el dolor es un proceso más de la vida, por lo tanto, es elevación, transformación<br><br> RDB"
     ];
     var rand_first = Math.floor(Math.random()*firstname.length); 
     document.getElementById('result').innerHTML = "<div class='quote-container'>"+ firstname[rand_first];  
