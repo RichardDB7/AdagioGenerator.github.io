@@ -36,7 +36,7 @@ function generate(){
 }
 
 
-    // Twitter
+    // Twitter [Future modify]
         function tweetQuote() {
             const quote = quoteText.innerText;
             const author = authorText.innerText;
