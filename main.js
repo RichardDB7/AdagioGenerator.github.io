@@ -29,8 +29,18 @@ function generate(){
     "La única venganza que tiene el bien sobre el mal es hacer el bien <br><br> Mario Javier Sabán",
     "Observemos a la gente en las calles corriendo de un lado para el otro solo para obtener comida y bebida. Hoy aquí y mañana en la tumba. Para qué vino el alma del hombre a este mundo? El alma vino a conocer el universo y el Infinito, lo demás son vanidades <br><br> Moshe Jaim Luzzatto",
     "Mientras estudias, no hay necesidad de buscar la unión con Dios, porque el estudio es una de las formas más sublimes de unirse con Él <br><br> Jaim ben Isaac de Volozhin",
-    "Para un místico, el dolor es un proceso más de la vida, por lo tanto, es elevación, transformación<br><br> RDB"
-    ];
+    "Para un místico, el dolor es un proceso más de la vida, por lo tanto, es elevación, transformación<br><br> RDB",
+    "No quiero ni el cielo ni el infierno, te quiero a ti HaShem! <br><br> Ione Szalay",
+    "Si usted esta buscando un camino, usted ya está en el camino <br><br> Shalom Sharabi",
+    "Todo lo que hago en cualquier momento si lo hago con conciencia me conduce al Ein Sof <br><br> Abraham Abulafia",
+    "Los Mekubalim, aquellos que pueden ver através de la ilusión <br><br> RDB",
+    "Solamente se puede amar a Dios en la medida que se le conoce <br><br> Rabi Moshé Ben Maimón",
+    "Toda rama está relacionada con su raíz y aún cuando no podamos llegar a la raíz de la perfección,la rama siempre transmite algo de la información de la raíz,y cuando la rama obtiene la mayor información de la raíz,entonces alcanza la iluminación <br><br> Rabí Moshe Jaim Luzzato",
+    "Del Daat para arriba, el alma encuentra toda la fuerza que necesita para llegar a Dios <br><br> El Ramak",
+    "Existe un secreto muy profundo:Maljut es la espalda de Kéter <br><br> El Ramak",
+    "Una persona puede estar haciendo cosas físicas,pero si mientras tanto medita sobre conceptos elevados,puede causar una unificación con Dios en cualquier momento <br><br> Baal Shem Tov",
+    "Cuando una persona se mejora a sí misma, se le otorga un alma de un nivel superior <br><br> Moshe Jaim Luzzato"];
+    
     var rand_first = Math.floor(Math.random()*firstname.length); 
     document.getElementById('result').innerHTML = "<div class='quote-container'>"+ firstname[rand_first];  
     
