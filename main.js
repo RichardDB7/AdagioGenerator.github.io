@@ -39,7 +39,29 @@ function generate(){
     "Del Daat para arriba, el alma encuentra toda la fuerza que necesita para llegar a Dios <br><br> El Ramak",
     "Existe un secreto muy profundo:Maljut es la espalda de Kéter <br><br> El Ramak",
     "Una persona puede estar haciendo cosas físicas,pero si mientras tanto medita sobre conceptos elevados,puede causar una unificación con Dios en cualquier momento <br><br> Baal Shem Tov",
-    "Cuando una persona se mejora a sí misma, se le otorga un alma de un nivel superior <br><br> Moshe Jaim Luzzato"];
+    "Cuando una persona se mejora a sí misma, se le otorga un alma de un nivel superior <br><br> Moshe Jaim Luzzato",
+    "Todo ocultamiento tiene como destino la revelación <br><br> Rabí Moshé Jaim Luzzatto",
+    "El único poder que tenemos es reconocer nuestras debilidades <br><br> Mario Sabán",
+    "El que profundiza, su mente no vuelve a ser como antes <br><br> Rabí David Ibn Zimra",
+    "El que busca tiene miedo de lo que puede encontrar, pero si la felicidad de la búsqueda supera al miedo, nada te detiene para ascender hacia Keter <br><br>Mario Sabán",
+    "Aunque el sabio pretenda conocer no por ello es capaz de comprender <br><br> Eclesiastés 8:17",
+    "Tu camino es Tu camino y no es el camino del Otro, no obligues al Otro a cambiar Su camino, ¿Por qué anulaste el camino del Otro que era su camino? Tu camino no es el camino del Otro, ni el camino del Otro tu camino <br><br> Rabí Abraham Abulafia",
+    "Sed críticos y dudad de todo. Lo más importante es liberarse de todo tipo de prejuicios, educacionales y opiniones públicas. Liberarse de todos estos factores externos e intentar absorber lo que tu naturaleza te dice. Eso sería lo más cercano a la verdad, porque cualquier tipo de educación, cualquier opinión externa, supone coerción <br><br> Rabí Baruj Ashlag",
+    "Prefiero pecar por amor gratuito que por odio gratuito <br><br> Rabí Abraham Kook",
+    "No lleves al extremo la misericordia para con los demás, ya que, al olvidarte de ti mismo, lograrás anular la misericordia contigo <br><br> Mario Sabán",
+    "La fuerza de retener nuestra fuerza es siempre superior a la fuerza de desplegarla <br><br> Mario Sabán",
+    "Las verdaderas victorias son aquellas que no cuestan sangre y que son conseguidas sobre uno mismo <br><br> Rabí Ben Zomá",
+    "Formo la Luz y creo las Tinieblas, hago la paz y creo el mal: Yo soy Dios que hace todo esto <br><br> Isaías 45:6",
+    "Lo que es malo en relación a lo finito no es malo en relación al Infinito <br><br> Maimónides",
+    "Todas las almas presentes en este mundo, que harán el esfuerzo de conocer a su Creador a través de Sus escrituras secretas (Cábala), ascenderán más alto que todas las otras almas que no estudiaron ni comprendieron, y serán primeras en el tiempo de la resurrección <br><br> Zohar Vayeshev",
+    "Todos los ídolos son falsos incluso Dios como ídolo <br><br> Jaime Barylko",
+    "La energía es el recipiente de la información <br><br> Moshé Cordovero",
+    "¿Quién es un intelecto inmaduro? Quien se enfurece por cosas triviales <br><br> Schneur Zalman de Liadí",
+    "En toda transformación de la realidad y en cada cambio se cruza el abismo de la nada <br><br> Rabí Yosef ben Shalom de Barcelona",
+    "La consciencia es el Espíritu Santo, Daat es el Rúaj Ha-Kodesh <br><br> Rashi",
+    "Tenemos la potencia para ir, pero no sabemos a donde <br><br> Mario Sabán",
+    "Hay que hacer bajar a la Biná y no quedarse en estado de flujo sin materializar los actos <br><br> Yitzhak Ginsburgh",
+    "Rabí Yossi dijo: «¡Ay de los seres humanos que ven, pero no conocen lo que ven, que existen, pero que no conocen sobre lo que existe!» <br><br> Jaguigá 12.b "];
     
     var rand_first = Math.floor(Math.random()*firstname.length); 
     document.getElementById('result').innerHTML = "<div class='quote-container'>"+ firstname[rand_first];  
