@@ -61,7 +61,25 @@ function generate(){
     "La consciencia es el Espíritu Santo, Daat es el Rúaj Ha-Kodesh <br><br> Rashi",
     "Tenemos la potencia para ir, pero no sabemos a donde <br><br> Mario Sabán",
     "Hay que hacer bajar a la Biná y no quedarse en estado de flujo sin materializar los actos <br><br> Yitzhak Ginsburgh",
-    "Rabí Yossi dijo: «¡Ay de los seres humanos que ven, pero no conocen lo que ven, que existen, pero que no conocen sobre lo que existe!» <br><br> Jaguigá 12.b "];
+    "Rabí Yossi dijo: «¡Ay de los seres humanos que ven, pero no conocen lo que ven, que existen, pero que no conocen sobre lo que existe!» <br><br> Jaguigá 12.b",
+    "HaShem dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has conseguido, ¿de quién será? Así es el que hace para sí tesoro, y no es rico para con HaShem <br><br> Iehoshua Mi'Natzrat",
+    "El ser humano nace como un egoísta absoluto, y esta cualidad es tan visceral que puede hacer que se convenza de que ya se convirtió en alguien justo y que se ha librado de todo egoísmo <br><br> Talmud Hagigá",
+    "La Torá es la Luz del Creador, y solamente a la persona que recibe esta luz se le considera que está aprendiendo la Torá <br><br> Zohar Metzorá",
+    "La Torá está encubierta. Sólo es revelada a los que han alcanzado el nivel de los justos <br><br> Talmud Hagigá",
+    "Cuando una persona, por medio de sus estudios, alcanza el nivel en el cual no desea nada más que la elevación espiritual y en el que sólo acepta lo estrictamente necesario de la vida para sustentar su existencia física, no para el placer, constituye el primer paso de su ascenso al mundo espiritual <br><br> Talmud Psajím",
+    "Cuanto más baja se siente una persona, más cerca llega a estar de su estado verdadero y del Creador <br><br> Talmud Sotá",
+    "No se desesperen una vez hayan entrado en el sendero, pues el Creador nos asegura el éxito si la dirección de nuestras aspiraciones es correcta <br><br> Talmud Psajim",
+    "El aspecto más importante de una persona es sus aspiraciones, y no sus logros, porque es el egoísmo el que requiere logros <br><br> Talmud Yavamot",
+    "Así como una persona debe esforzarse en sentir la insignificancia de sus características innatas, de igual forma debe estar orgullosa de su trabajo y propósito espirituales <br><br> Talmud Brajot",
+    "El individuo debe imaginarse que está solo en el mundo con el Creador. Los diversos caracteres y relatos en la Biblia significan las diversas cualidades de una persona y de toda la gente, así como de las diversas etapas del sendero espiritual de dicha persona. Las cualidades y las etapas son catalogadas por nombres de gente, sus acciones, y sitios geográficos <br><br> Talmud Kidushín",
+    "El individuo no tiene que desesperarse cuando del estudio y el trabajo en mejorarse en el esfuerzo de lograr la elevación espiritual, llega a verse a sí mismo como estando en una condición aún peor que la previa al estudio de la Cabalá. La naturaleza verdadera del egoísmo es revelada a la persona cuyo nivel es superior al de los demás, y por esta razón la persona, según su punto de vista, empeora, pese a que en realidad se ha convertido en alguien mejor <br><br> Talmud Meguilá",
+    "No presten atención al hecho que el mundo entero está continuamente persiguiendo placeres, mientras que sólo unos cuantos ascienden al Creador <br><br> Talmud Rosh Hashaná",
+    "La peor manifestación del egoísmo es la arrogancia y la altivez <br><br> Talmud Sota",
+    "La persona debe sacar fuerzas de la comprensión del propósito de la Creación, regocijándose de antemano con la reforma inevitable del mundo entero y la llegada de la paz para la humanidad <br><br> Talmud Trumá",
+    "La fe es el único camino hacia la redención. En todo el resto de cualidades, la persona puede llegar a estar confundida por el egoísmo, pero la fe es la única base para el ascenso de una persona al reino espiritual <br><br> Talmud Makot",
+    "La fe no puede manifestarse en una persona sin estar acompañada por el temor, porque el egoísmo se doblega solamente al miedo <br><br> Talmud Shabat",
+    "La unificación de un individuo con el Creador nada más puede ser alcanzada a través de la congruencia de sus cualidades <br><br> Talmud Sotá",
+    ""];
     
     var rand_first = Math.floor(Math.random()*firstname.length); 
     document.getElementById('result').innerHTML = "<div class='quote-container'>"+ firstname[rand_first];  
