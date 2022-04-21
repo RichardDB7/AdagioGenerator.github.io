@@ -87,7 +87,7 @@ function generate(){
 }
 
 
-    // Twitter 
+    // Social
         function tweetQuote() {
             const quote = quoteText.innerText;
             const author = authorText.innerText;
