@@ -79,7 +79,8 @@ function generate(){
     "La fe es el único camino hacia la redención. En todo el resto de cualidades, la persona puede llegar a estar confundida por el egoísmo, pero la fe es la única base para el ascenso de una persona al reino espiritual <br><br> Talmud Makot",
     "La fe no puede manifestarse en una persona sin estar acompañada por el temor, porque el egoísmo se doblega solamente al miedo <br><br> Talmud Shabat",
     "La unificación de un individuo con el Creador nada más puede ser alcanzada a través de la congruencia de sus cualidades <br><br> Talmud Sotá",
-    "Por que crees en lo que crees? <br><br> RDB"];
+    "Por que crees en lo que crees? <br><br> RDB",
+    "Conocimiento es conocer que el tomate es una fruta, sabiduría es no utilizarlo en una ensalada de frutas <br><br> Inés del Rosario"];
     
     var rand_first = Math.floor(Math.random()*firstname.length); 
     document.getElementById('result').innerHTML = "<div class='quote-container'>"+ firstname[rand_first];  
@@ -88,7 +89,7 @@ function generate(){
 
 
     // Twitter 
-        function tweetQuote() {
+        function tweetQuote() {  
             const quote = quoteText.innerText;
             const author = authorText.innerText;
             const twitterUrl = `https://twitter.com/intent/tweet?text=${quote}`;
