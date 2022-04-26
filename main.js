@@ -80,7 +80,10 @@ function generate(){
     "La fe no puede manifestarse en una persona sin estar acompañada por el temor, porque el egoísmo se doblega solamente al miedo <br><br> Talmud Shabat",
     "La unificación de un individuo con el Creador nada más puede ser alcanzada a través de la congruencia de sus cualidades <br><br> Talmud Sotá",
     "Por que crees en lo que crees? <br><br> RDB",
-    "Conocimiento es conocer que el tomate es una fruta, sabiduría es no utilizarlo en una ensalada de frutas <br><br> Inés del Rosario"];
+    "Conocimiento es conocer que el tomate es una fruta, sabiduría es no utilizarlo en una ensalada de frutas <br><br> Inés del Rosario",
+    "Abundante no es el mucho tiene, sino quien nada nesecita <br><br> RDB",
+    "Quienquiera de ustedes que antes de llegar aqui haya convertido la oscuridad en luz, y transformado el sabor amargo del alma animal en dulzura, solo aquellos pueden entrar <br><br> Zohar 1,4A",
+    "El Maestro tiene, pero no posee; actúa, más no espera nada. Cuando su obra termina, lo olvida, por eso es imperecedera <br><br> Lao Tse"];
     
     var rand_first = Math.floor(Math.random()*firstname.length); 
     document.getElementById('result').innerHTML = "<div class='quote-container'>"+ firstname[rand_first];  
